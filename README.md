@@ -2,4 +2,3 @@
 This is a College Library Website made using pure JavaScript.
 The frontend is built using HTML template from getbootstrap.com
 The indexes6.js file is made using ES6 method.
-The index.js file is made without using ES6.
